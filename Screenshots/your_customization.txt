@@ -1,0 +1,16 @@
+<div className="mainContainer">
+
+      <div className="dataContainer">
+        <div className="header">
+        👋 sup!
+        </div>
+
+        <div className="bio">
+        I am Ashwanth and I am trying to build this web app.  Connect your Ethereum wallet and wave at me!
+        </div>
+
+        <button className="waveButton" onClick={null}>
+          Wave at Me
+        </button>
+      </div>
+    </div>
